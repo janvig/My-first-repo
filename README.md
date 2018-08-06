@@ -2,5 +2,5 @@
 Online
 
 Thi is _Italic_
-This id *Bold*
+This is *Bold*
 
