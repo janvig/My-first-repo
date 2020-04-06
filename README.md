@@ -2,5 +2,5 @@
 Online
 
 This is _Italic_
-This is *Bold*
+This is **Bold**
 
